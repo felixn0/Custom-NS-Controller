@@ -1,0 +1,15 @@
+Part Name,Link To Part,Cost,Quantity,Note,,,TOTAL COST
+Switches,https://www.digikey.ca/en/products/detail/alps-alpine/SKRPABE010/18768948,$4.86,16,All buttons,,,$137.73
+Joysticks,https://www.digikey.ca/en/products/detail/favor-electronics/FJH10K-S2/25879530,$41.93,2,"Hall effect for durability, anti-drift",,,
+Resistor,https://www.adafruit.com/product/2781?,$0.75,4,For the LEDS,,,
+LED,https://www.adafruit.com/product/298?,$4.00,4,Show pairing order,,,
+Microcontroller,https://www.digikey.ca/en/products/detail/espressif-systems/ESP32-DEVKITC-32E/12091810,$15.83,1,ESP32 ,,,
+Black Wire,https://www.digikey.ca/en/products/detail/te-connectivity-aerospace-defense-and-marine/FLTWC0311-22-0/5330199,$7.14,3 Feet,GND,,,
+Red Wire,https://www.digikey.ca/en/products/detail/te-connectivity-aerospace-defense-and-marine/FLTWC0311-22-2/5330204,$4.58,3 Feet,Power (+),,,
+White Wire,https://www.digikey.ca/en/products/detail/te-connectivity-aerospace-defense-and-marine/44A0111-28-9/7043728,$6.72,3 Feet,Signal,,,
+Battery Gauge,https://www.adafruit.com/product/5580?,$5.95,1,Battery percentage guage,,,
+Battery Charger,https://www.adafruit.com/product/6106,$8.95,1,Charge at 500mAh,,,
+Battery,https://www.adafruit.com/product/2011?srsltid=AYCX9vJzWWHBV4lZ9nHVtDmIp0o5clNOiPGSdUxlbAMHgcpCHZHMnocn,$12.50,1,2000mAh,,,
+Filament,https://ca.store.bambulab.com/products/petg-basic?id=738167018278010916,$17.99,1,1kg PETG,,,
+Power Switch,https://www.digikey.ca/en/products/detail/c-k/L101011SS03Q/3753551?s=N4IgTCBcDaIDIEYAMyEIMrqQZgIogF0BfIA,$6.53,1,Turn off but don't restrict charging,,,
+Screws,,0,1,Fasten the shell together,,,
