@@ -5,7 +5,7 @@ STEP 1:
 - 3D print the shell parts
 
 STEP 2:
-- Flash the firmware to the ESP32 using a USB-C data cable (further instructions coming)
+- Flash the firmware to the ESP32 using a Micro USB data cable (further instructions coming)
 
 STEP 3: 
 - Wire all components together to the ESP32 (Wiring diagram coming)
